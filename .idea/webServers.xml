@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="52c4012c-7052-4cdb-aeda-b7117403b544" name="vlog" url="http://45.76.71.195">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="45.76.71.195" port="20222" sshConfigId="a0ac9539-249a-42b8-a2b5-eeff01132126" sshConfig="root@45.76.71.195:20222:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
